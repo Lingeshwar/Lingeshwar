@@ -1,5 +1,5 @@
 <p>
-  <a href="https://get.wallhere.com/photo/JavaScript-Google-node-js-HTML-Microsoft-Visual-Studio-Python-programming-code-web-development-programming-minimalism-icon-Software-developer-1790213.jpg"><img width="150" align='right' src="https://get.wallhere.com/photo/JavaScript-Google-node-js-HTML-Microsoft-Visual-Studio-Python-programming-code-web-development-programming-minimalism-icon-Software-developer-1790213.jpg"></a>
+  <a href="https://get.wallhere.com/photo/JavaScript-Google-node-js-HTML-Microsoft-Visual-Studio-Python-programming-code-web-development-programming-minimalism-icon-Software-developer-1790213.jpg"><img width="100%" align='center' src="https://get.wallhere.com/photo/JavaScript-Google-node-js-HTML-Microsoft-Visual-Studio-Python-programming-code-web-development-programming-minimalism-icon-Software-developer-1790213.jpg"></a>
 </p>
 
 <p align='center'>
