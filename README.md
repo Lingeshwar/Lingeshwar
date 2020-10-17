@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Framework-D3JS-informational?style=flat&logo=d3.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/VersionControl-Github-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 
 
 
