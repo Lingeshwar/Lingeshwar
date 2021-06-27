@@ -9,6 +9,8 @@
 
 ### Hello, folks! 👋
 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Lingeshwar.Lingeshwar)
+
 My name is Lingeshwar S and I'm a Software developer and I develop Web/Mobile applications.I m currently working at Navjoy Inc.
 
 
