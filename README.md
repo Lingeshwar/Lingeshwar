@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/VersionControl-Github-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lingeshwar&layout=compact)
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Lingeshwar/Lingeshwar">
